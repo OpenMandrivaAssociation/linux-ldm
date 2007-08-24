@@ -2,7 +2,7 @@ Summary:	Logical Disk Manager (Dynamic Disk) Tool
 Name:		linux-ldm
 Version:	0.0.8
 %define	docver	0.2
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPL
 Group:		System/Kernel and hardware
 Source0:	http://prdownloads.sf.net/linux-ntfs/%name-%version.tar.bz2
