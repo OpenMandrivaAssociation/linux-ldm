@@ -7,7 +7,7 @@ License:	GPL
 Group:		System/Kernel and hardware
 Source0:	http://prdownloads.sf.net/linux-ntfs/%name-%version.tar.bz2
 Source1:	http://prdownloads.sf.net/linux-ntfs/ldmdoc-%{docver}.tar.bz2
-URL:		http://linux-ntfs.sf.net/
+URL:		https://linux-ntfs.sf.net/
 BuildRequires:	libstdc++-devel
 BuildRoot:	%_tmppath/%name-%version
 
